@@ -11,13 +11,8 @@
 
 🛠️ Tech Stack:
 - Languages: Python, MATLAB, R Programming
-- Tools & Libraries:NumPy, Pandas, SciPy, Matplotlib
-- IDE:Visual Studio Code, Jupyter Notebooks
-
-🚄 What drives me:
-
-- I am driven by the endless possibilities and inventions that coding offers in the world of finance.
-- Through continuous learning and collaboration, I aspire to contribute meaningfully to the ever-evolving landscape of financial technology.
+- Tools & Libraries: NumPy, Pandas, SciPy, Matplotlib
+- IDE: Visual Studio Code, Jupyter Notebooks
 
 👩🏽‍💻 Let's Connect!
 
