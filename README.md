@@ -1,7 +1,6 @@
 👋 Hi, I’m Zara!
 
-🎓 BSc in Economics and Business Finance
-🎓 MSc in Financial Mathematics
+🎓 MSc in Financial Mathematics & BSc in Economics and Business Finance
 
 🚀 New Coding Enthusiast
 
