@@ -2,7 +2,7 @@
 
 🎓 MSc in Financial Mathematics & BSc in Economics and Business Finance
 
-🚀 New Coding Enthusiast
+🚀 New Quant Research Enthusiast
 
 🌱 Areas of Interest:
 - Quantitative Finance
